@@ -4,7 +4,7 @@
 
 > "Get on the air. Survive the coffee. Don't key up during the net."
 
-You're 25. You just passed your Technician exam. You've wandered into the weekly meeting of a folding-table fiefdom ruled by seven guys named Gary, all of whom insist their antenna is the best one. Spin, move, get heckled, get mentored, and — eventually — become the grouchy old-timer yourself.
+You're 25. You just passed your Technician exam. You've wandered into the weekly meeting of a folding-table fiefdom ruled by seven guys named Gary, all of whom insist their antenna is the best one. Spin, move, get heckled, get mentored, and eventually, become the grouchy old-timer yourself.
 
 Ham-Fisted is a print-and-play board game for 2–6 players, built in the spirit of classic path-and-spinner games, reskinned around the very specific culture of ham radio clubs: Baofeng jokes, SWR paranoia, repeater politics, and decades-old feuds over whether CW counts as "real radio."
 
@@ -17,9 +17,9 @@ This repo contains everything you need to print and play it at home.
 | File | What it is |
 |---|---|
 | [`Ham-Fisted_Rulebook.docx`](./Ham-Fisted_Rulebook.pdf) | Full rulebook: setup, turn structure, the Squelch Check mechanic, win conditions, variants, and a complete reference for all 69 event cards |
-| [`Ham-Fisted_Board_Poster_17x11.pdf`](./Ham-Fisted_Board_Poster_17x11.pdf) | The full game board on one 17×11 (tabloid/ledger) page — best for a print shop or large-format printer |
-| [`Ham-Fisted_Board_PrintAtHome_2pages.pdf`](./Ham-Fisted_Board_PrintAtHome_2pages.pdf) | The same board split into two Letter-size (8.5×11) pages with alignment guides — print on any home printer and tape together |
-| [`Ham-Fisted_Card_Sheets.pdf`](./Ham-Fisted_Card_Sheets.pdf) | All 75 cards (69 event cards + 6 special-space reference cards), 9-per-page at poker size (2.5"×3.5") with cut lines — print on cardstock and cut apart |
+| [`Ham-Fisted_Board_Poster_17x11.pdf`](./Ham-Fisted_Board_Poster_17x11.pdf) | The full game board on one 17×11 (tabloid/ledger) page - best for a print shop or large-format printer |
+| [`Ham-Fisted_Board_PrintAtHome_2pages.pdf`](./Ham-Fisted_Board_PrintAtHome_2pages.pdf) | The same board split into two Letter-size (8.5×11) pages with alignment guides - print on any home printer and tape together |
+| [`Ham-Fisted_Card_Sheets.pdf`](./Ham-Fisted_Card_Sheets.pdf) | All 75 cards (69 event cards + 6 special-space reference cards), 9-per-page at poker size (2.5"×3.5") with cut lines - print on cardstock and cut apart |
 
 ## The board
 
@@ -70,3 +70,11 @@ You are free to copy, modify, and redistribute this game as long as attribution 
 
 License:
 https://creativecommons.org/licenses/by-sa/4.0/
+
+## Credits
+
+Concept, rules, and card writing by Scott Sheets, N1OF. Built with a little help from Claude (Anthropic).
+
+---
+
+*73, and good luck out there.*

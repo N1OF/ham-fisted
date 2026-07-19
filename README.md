@@ -12,7 +12,7 @@ This repo contains everything you need to print and play it at home.
 
 ---
 
-## 🎲 What's in the box
+## What's in the box
 
 | File | What it is |
 |---|---|
@@ -21,7 +21,7 @@ This repo contains everything you need to print and play it at home.
 | [`Ham-Fisted_Board_PrintAtHome_2pages.pdf`](./Ham-Fisted_Board_PrintAtHome_2pages.pdf) | The same board split into two Letter-size (8.5×11) pages with alignment guides — print on any home printer and tape together |
 | [`Ham-Fisted_Card_Sheets.pdf`](./Ham-Fisted_Card_Sheets.pdf) | All 75 cards (69 event cards + 6 special-space reference cards), 9-per-page at poker size (2.5"×3.5") with cut lines — print on cardstock and cut apart |
 
-## 🧭 The board
+## The board
 
 Five color-coded stages, snaking left to right:
 
@@ -33,7 +33,7 @@ Five color-coded stages, snaking left to right:
 
 Special spaces are scattered throughout: ☕ **Coffee Pot** (free space, mandatory story about 1987), ⛺ **Field Day**, ✦ **Silent Key**, ⚠ **FCC Violation**, ⇄ **Swap Meet**, and the final ★ **Elmer Status** win space.
 
-## 🃏 How a turn works
+## How a turn works
 
 1. Spin the "Big Knob" (1–6) and move that many spaces.
 2. Resolve the space you land on.
@@ -44,13 +44,13 @@ Two currencies drive the game: **Cred** (your reputation on the air and in the c
 
 Full rules, all card text, and variant modes (2-player, short game, "Ironman Net") are in the rulebook.
 
-## 🖨️ Printing instructions
+## Printing instructions
 
 - **Board:** Use the poster PDF if you have access to tabloid (11×17) printing. Otherwise print both pages of the "print-at-home" PDF on Letter paper and tape them together along the dashed guide.
 - **Cards:** Print the card sheet PDF on cardstock (or regular paper + sleeves), then cut along the dashed lines. Each deck is color-coded by header so they're easy to sort and shuffle separately.
 - **Tokens/pieces:** Not included yet — see [Contributing](#-contributing) below. In the meantime, any small tokens (coins, mini figures, buttons) work fine for peg-cars, Cred, and Watts.
 
-## 🤝 Contributing
+## Contributing
 
 This is a hobby project and very much open to pull requests, especially:
 
@@ -61,3 +61,12 @@ This is a hobby project and very much open to pull requests, especially:
 - Translations
 
 Open an issue or just send a PR — no formal process here.
+
+## License
+
+This game is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You are free to copy, modify, and redistribute this game as long as attribution is given and derivative works are released under the same license.
+
+License:
+https://creativecommons.org/licenses/by-sa/4.0/

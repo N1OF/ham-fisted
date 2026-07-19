@@ -73,7 +73,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Credits
 
-Concept, rules, and card writing by Scott Sheets, N1OF. Built with a little help from Claude (Anthropic).
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for project credits.
 
 ---
 

@@ -16,7 +16,7 @@ This repo contains everything you need to print and play it at home.
 
 | File | What it is |
 |---|---|
-| [`Ham-Fisted_Rulebook.docx`](./Ham-Fisted_Rulebook.docx) | Full rulebook: setup, turn structure, the Squelch Check mechanic, win conditions, variants, and a complete reference for all 69 event cards |
+| [`Ham-Fisted_Rulebook.docx`](./Ham-Fisted_Rulebook.pdf) | Full rulebook: setup, turn structure, the Squelch Check mechanic, win conditions, variants, and a complete reference for all 69 event cards |
 | [`Ham-Fisted_Board_Poster_17x11.pdf`](./Ham-Fisted_Board_Poster_17x11.pdf) | The full game board on one 17×11 (tabloid/ledger) page — best for a print shop or large-format printer |
 | [`Ham-Fisted_Board_PrintAtHome_2pages.pdf`](./Ham-Fisted_Board_PrintAtHome_2pages.pdf) | The same board split into two Letter-size (8.5×11) pages with alignment guides — print on any home printer and tape together |
 | [`Ham-Fisted_Card_Sheets.pdf`](./Ham-Fisted_Card_Sheets.pdf) | All 75 cards (69 event cards + 6 special-space reference cards), 9-per-page at poker size (2.5"×3.5") with cut lines — print on cardstock and cut apart |
